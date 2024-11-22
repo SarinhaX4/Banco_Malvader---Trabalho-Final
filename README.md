@@ -3,17 +3,6 @@
 Este repositório contém a implementação do sistema **Banco Malvader**, um aplicativo Java desenvolvido para gerenciar contas bancárias com interface gráfica Swing e persistência de dados em MySQL. O projeto foi criado para o Trabalho Final de Laboratório de Banco de Dados ministrada pelo docente WILLIAM ROBERTO MALVEZZI
 
 ### Funcionalidades
-Aqui está a revisão e ampliação da descrição, incluindo informações sobre geração de relatórios e outras funcionalidades mencionadas no seu documento:
-
----
-
-### Banco Malvader - Sistema de Gerenciamento Bancário  
-**Descrição:**  
-Este repositório contém a implementação do sistema **Banco Malvader**, um aplicativo desenvolvido em **Java** com **interface gráfica Swing** e **persistência de dados MySQL**. O sistema é um trabalho acadêmico focado em **Programação Orientada a Objetos (POO)**, gerenciamento de contas bancárias e integração com banco de dados.
-
----
-
-### Funcionalidades
 #### Acesso ao Sistema
 - Login inicial com autenticação para **Funcionários** ou **Clientes**.  
 - **Menu Principal**: Permite navegação entre menus de acordo com o perfil de usuário.  
